@@ -14,6 +14,8 @@ var main = new UI.Card({
   body: 'Press any button.'
 });
 
+
+/*
 main.show();
 
 main.on('click', 'up', function(e) {
@@ -56,3 +58,4 @@ main.on('click', 'down', function(e) {
   card.body('The simplest window type in Pebble.js.');
   card.show();
 });
+*/
