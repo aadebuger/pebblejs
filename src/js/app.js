@@ -15,9 +15,9 @@ var main = new UI.Card({
 });
 
 
-/*
-main.show();
 
+main.show();
+/*
 main.on('click', 'up', function(e) {
   var menu = new UI.Menu({
     sections: [{
